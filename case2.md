@@ -34,7 +34,7 @@ The production manager highlighted the issue of old machines and equipment, lead
 The marketing manager pointed out the lack of a central organization for sales support and insufficient budget for demonstration teams. This affects the company's ability to effectively market and sell its products.
 -Absence of Integrated Planning System:
 The company lacks an integrated planning system, as emphasized by the Board of Directors. This hampers coordination and decision-making across departments, leading to inefficiencies and missed opportunities.
--Underutilization of R&D Potential:
+- Underutilization of R&D Potential:
 The R&D department is not focusing on short-term research projects that could significantly increase production efficiency without major capital outlay. There is a need to align R&D efforts with short-term goals to drive immediate improvements.
 
 ### Question 2
